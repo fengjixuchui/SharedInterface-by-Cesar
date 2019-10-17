@@ -1,12 +1,12 @@
-# :space_invader: SharedInterface-by-Cesar :underage:
+# :space_invader: Shared Memory Client-by-Cesar :underage:
 
-* This is a Shared Driver Interface writen in c# using as base an updated and little improved version o Frankoo's driver, for orginal driver code check his repo.
+* This is a Shared Memory Client implementation writen in c# using as base an updated and little improved version o Frankoo's driver, for orginal driver code check his repo.
 
-* There is also an useless "NativeInterface" for studies, fell free to delete it.
+* There is also an useless "NativeInterface" for studies, fell free to delete it.(deleted)
 
-* This project is more a PoC, there are some stuff missing so implement yourself, this isn't a p2c project.
+* This project is more a PoC!!!, there are some stuff missing so implement yourself, this isn't a p2c project.
 
-* Assume this project is flagged, once its public, and code your own shared memory.
+* Assume this project is flagged, once its public, and code your own shared memory C# client.
 
 * :kissing_smiling_eyes:
 
@@ -15,7 +15,7 @@
 * Compile both User Mode/Driver it, and then…
 
 1. Run user mode.
-2. Run driver.
+2. Run driver.(removed)
 3. If its all ok, implement your stuff/methods.
 
 ## Troubleshooting
@@ -27,15 +27,19 @@
 
 ## Compatibility
 
-* CleanPiddb method is working in (1803/1809), as usermode and driver itself. (11/09/2019)
+* CleanPiddb method is working in (1803/1809), as usermode and driver itself. (11/09/2019)(driver removed)
 
 ## Credits
 
-*SharedInterface Here* was coded on the shoulders of giants.
+*Shared Client Here* was coded on the shoulders of giants.
 
 * SharedMemory-By-Frankoo: [fengjixuchui / SharedMemory-By-Frankoo](https://github.com/fengjixuchui/SharedMemory-By-Frankoo)
 * Blackbone: [DarthTon/Blackbone](https://github.com/DarthTon/Blackbone)
 * UC dudes, for support: [UC](https://www.unknowncheats.me/forum/portal.php)
 
-Shared Memory interface in c#
+## Contribuidors
+
+* Alexander Bruun
+
+Shared Memory client in c#
 Uc thread > https://www.unknowncheats.me/forum/anti-cheat-bypass/354436-shared-memory-interface.html
